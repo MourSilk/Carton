@@ -1,3 +1,19 @@
 {
-"employee":{ "name":"John", "age":30, "city":"New York" }
+"ID":1,
+"name":"Meeseeks", 
+"composition":"Trapper", 
+"slot":"Chest", 
+"major":"+25 Rad Resist", 
+"minor":"Sentinel", 
+"level":45, 
+"arclass":"sturdy", 
+"weight":6.00, 
+"mod1":"blank", 
+"mod2":"blank", 
+"mod3":"blank", 
+"class":"blank", 
+"toon":"blank", 
+"player":"blank", 
+"price":3.50, 
+"offerType":"TradeOnly"
 } 
