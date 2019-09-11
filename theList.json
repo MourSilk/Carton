@@ -1,11 +1,12 @@
-{
+[
+    {
     "name":"Meeseeks", 
     "composition":"Trapper", 
     "slot":"Chest",
     "major":"+25 Rad Resist", 
     "minor":"Sentinel", 
     "level":"45", 
-    "class":"sturdy", 
+    "armclass":"sturdy", 
     "weight":"6.00", 
     "mod1":"blank", 
     "mod2":"blank", 
@@ -17,3 +18,4 @@
     "offerType":
     "TradeOnly"
 } 
+]
