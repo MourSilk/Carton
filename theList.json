@@ -1,29 +1,19 @@
-var data = [{
-    name: "Keely Luther",
-    email: "kluther@abc.com",
-    phone: "617 465 6314",
-    id: "1235-454676",
-    plan: "Plan A",
-    type: "New Medic",
-    group: "ABC-1",
-    status: "Approved"
-  },
-  {
-    name: "Mike Jenson",
-    email: "mike_j@yahoo.com",
-    phone: "943 355 0193",
-    id: "1235-478948",
-    plan: "Plan A",
-    type: "New Medic",
-    group: "ABC-1",
-    status: "Cancelled"
-  }
-];
-
-
-$(document).ready(function() {
-  $.each(data, function(i, obj) {
-    $("#Table").append(
-      '<tr><td>' + obj.name + '</td><td>' + obj.email + '</td><td>' + obj.phone + '</td><td>' + obj.id + '</td></tr>');
-  })
-});
+{
+    "name":"Meeseeks", 
+    "composition":"Trapper", 
+    "slot":"Chest",
+    "major":"+25 Rad Resist", 
+    "minor":"Sentinel", 
+    "level":"45", 
+    "class":"sturdy", 
+    "weight":"6.00", 
+    "mod1":"blank", 
+    "mod2":"blank", 
+    "mod3":"blank", 
+    "class":"blank", 
+    "toon":"blank", 
+    "player":"blank", 
+    "price":"3.50", 
+    "offerType":
+    "TradeOnly"
+} 
