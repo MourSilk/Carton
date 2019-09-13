@@ -1,59 +1,56 @@
 [
-    {
-    "name":"Meeseeks", 
-    "composition":"Trapper", 
-    "slot":"Chest",
-    "major":"+25 Rad Resist", 
-    "minor":"Sentinel", 
-    "level":"45", 
-    "armclass":"sturdy", 
-    "weight":"6.00", 
-    "mod1":"blank", 
-    "mod2":"blank", 
-    "mod3":"blank", 
-    "class":"blank", 
-    "toon":"blank", 
-    "player":"blank", 
-    "price":"3.50", 
-    "offerType":
-    "TradeOnly"
-    } 
-        {
-    "name":"Snowdog", 
-    "composition":"Lapper", 
-    "slot":"Chest",
-    "major":"+25 Rad Resist", 
-    "minor":"Sentinel", 
-    "level":"45", 
-    "armclass":"sturdy", 
-    "weight":"6.00", 
-    "mod1":"blank", 
-    "mod2":"blank", 
-    "mod3":"blank", 
-    "class":"blank", 
-    "toon":"blank", 
-    "player":"blank", 
-    "price":"3.50", 
-    "offerType":
-    "TradeOnly"
-    } 
-        {
-    "name":"Donald", 
-    "composition":"Crapper", 
-    "slot":"Chest",
-    "major":"+25 Rad Resist", 
-    "minor":"Sentinel", 
-    "level":"45", 
-    "armclass":"sturdy", 
-    "weight":"6.00", 
-    "mod1":"blank", 
-    "mod2":"blank", 
-    "mod3":"blank", 
-    "class":"blank", 
-    "toon":"blank", 
-    "player":"blank", 
-    "price":"3.50", 
-    "offerType":
-    "TradeOnly"
-    } 
+   {
+      "name": "Meeseeks",
+      "composition": "Trapper",
+      "slot": "Chest",
+      "major": "+25 Rad Resist",
+      "minor": "Sentinel",
+      "level": "45",
+      "armclass": "sturdy",
+      "weight": "6.00",
+      "mod1": "blank",
+      "mod2": "blank",
+      "mod3": "blank",
+      "class": "blank",
+      "toon": "blank",
+      "player": "blank",
+      "price": "3.50",
+      "offerType": "TradeOnly"
+   },
+   {
+      "name": "Snowdog",
+      "composition": "Lapper",
+      "slot": "Chest",
+      "major": "+25 Rad Resist",
+      "minor": "Sentinel",
+      "level": "45",
+      "armclass": "sturdy",
+      "weight": "6.00",
+      "mod1": "blank",
+      "mod2": "blank",
+      "mod3": "blank",
+      "class": "blank",
+      "toon": "blank",
+      "player": "blank",
+      "price": "3.50",
+      "offerType": "TradeOnly"
+   },
+   {
+      "name": "Donald",
+      "composition": "Crapper",
+      "slot": "Chest",
+      "major": "+25 Rad Resist",
+      "minor": "Sentinel",
+      "level": "45",
+      "armclass": "sturdy",
+      "weight": "6.00",
+      "mod1": "blank",
+      "mod2": "blank",
+      "mod3": "blank",
+      "class": "blank",
+      "toon": "blank",
+      "player": "blank",
+      "price": "3.50",
+      "offerType": "TradeOnly"
+   }
 ]
