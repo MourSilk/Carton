@@ -17,10 +17,10 @@
     "price":"3.50", 
     "offerType":
     "TradeOnly"
-} 
+    } 
         {
-    "name":"Randy", 
-    "composition":"Slapper", 
+    "name":"Snowdog", 
+    "composition":"Lapper", 
     "slot":"Chest",
     "major":"+25 Rad Resist", 
     "minor":"Sentinel", 
@@ -36,10 +36,10 @@
     "price":"3.50", 
     "offerType":
     "TradeOnly"
-} 
+    } 
         {
     "name":"Donald", 
-    "composition":"Knee", 
+    "composition":"Crapper", 
     "slot":"Chest",
     "major":"+25 Rad Resist", 
     "minor":"Sentinel", 
@@ -55,5 +55,5 @@
     "price":"3.50", 
     "offerType":
     "TradeOnly"
-} 
+    } 
 ]
